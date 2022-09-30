@@ -30,17 +30,17 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = 'https://instagram.com/pandustore7'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/BhZoO58F6gRCT7bGsTWo1U' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCnLQlp0crUbDd_pC3tSW4tw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '082173848823' //dana
-global.povo = '082173848823' //ovo
+global.pdana = '082173838823' //dana
+global.povo = '-' //ovo
 global.pgopay = '082173848823' //gopay
-global.plinkaja = '082173848823' //link aja
+global.plinkaja = '-' //link aja
 global.ppulsa = '082173848823' //telkomsel
 global.ppulsa2 = '089630790633' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
@@ -48,7 +48,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 /*============== NOMOR ==============*/
 global.nomorbot = '6282173848823'
 global.nomorown = '6289630790633'
-global.namebot = 'Pandu|Botz'
+global.namebot = 'Pandu•𝐁𝐎𝐓༼༽𝐙'
 global.nameown = 'Pandu|Store'
 
 /*============== APIKEY SIMPEL ==============*/
@@ -58,13 +58,13 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['6285752300654', '𝚁𝙰𝙲𝙷𝙼𝙰𝚃_𝙾𝚆𝙽𝙴𝚁_𝚁𝙰𝙽𝚉', true],
+  ['628565337357', 'Awy_', true],
+  ['-', '13152046426', true],
+  ['-', '6289630790633', 'Pandu_owner', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = ['6289630790633'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 Pandu•𝐁𝐎𝐓༼༽𝐙 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Pandu•𝐁𝐎𝐓༼༽𝐙 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ pandu•𝙱𝙾𝚃 𝚅2 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Pandu|Store '
+global.author = '                「 Pandu•𝐁𝐎𝐓༼༽𝐙  あ」'
 
 
 /*============== LOGO ==============*/
@@ -162,7 +162,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '99999999' // default 10TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = '𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲'
+global.stickauth = `Pandu•𝐁𝐎𝐓༼༽𝐙`
 
 global.multiplier = 38 // The higher, The harder levelup
 
